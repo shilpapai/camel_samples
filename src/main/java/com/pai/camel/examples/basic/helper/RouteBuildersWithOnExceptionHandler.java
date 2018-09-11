@@ -1,8 +1,5 @@
-package com.pai.camel.examples.helper;
+package com.pai.camel.examples.basic.helper;
 
-import com.pai.camel.examples.helper.ErrorHandler;
-import com.pai.camel.examples.helper.MyException;
-import com.pai.camel.examples.helper.MyProcessor;
 import org.apache.camel.builder.RouteBuilder;
 
 public class RouteBuildersWithOnExceptionHandler extends RouteBuilder {

@@ -1,4 +1,4 @@
-package com.pai.camel.examples.helper;
+package com.pai.camel.examples.basic.helper;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;

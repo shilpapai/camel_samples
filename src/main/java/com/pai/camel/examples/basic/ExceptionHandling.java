@@ -1,7 +1,7 @@
-package com.pai.camel.examples;
+package com.pai.camel.examples.basic;
 
-import com.pai.camel.examples.helper.MyCamelContext;
-import com.pai.camel.examples.helper.RouteBuilderWithTryCatch;
+import com.pai.camel.examples.MyCamelContext;
+import com.pai.camel.examples.basic.helper.RouteBuilderWithTryCatch;
 
 public class ExceptionHandling {
 
